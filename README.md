@@ -3,4 +3,4 @@ Service workers are a crucial step in graceful degradation. In this case, servic
 
 [GitHub Pages URL](https://j5995.github.io/Lab8_Starter/)
 
-[pwa.png](./assets/images/pwa.png)
+![pwa.png](./assets/images/pwa.png)
